@@ -47,7 +47,7 @@ public class TDataSort {
 	
 	public static void printArray(Object[] arr) {
 		for (Object object : arr) {
-			System.out.println(object);
+			System.out.print(object + " ");
 		}
 	}
 	
